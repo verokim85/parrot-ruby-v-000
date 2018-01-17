@@ -5,4 +5,3 @@ def parrot(string = "Squawk!")
   puts "The parrot says #{string}"
 end
 
-return parrot
